@@ -10,8 +10,8 @@ function App() {
   // Get the basename from the current URL
   const getBasename = () => {
     const { pathname } = window.location;
-    if (pathname.includes('/mindmentor-portfolio')) {
-      return '/mindmentor-portfolio';
+    if (pathname.includes('/mindmentor-web')) {
+      return '/mindmentor-web';
     }
     return '';
   };
