@@ -248,6 +248,16 @@ const Header = () => {
           >
             Feedback
           </NavLink>
+          <NavLink 
+            to="/documentation"
+            className={location.pathname === '/documentation' ? 'active' : ''}
+            onClick={(e) => {
+              e.preventDefault();
+              handleNavigation('/documentation');
+            }}
+          >
+            Documentation
+          </NavLink>
           <DownloadButton 
             to="/download"
             onClick={(e) => {
