@@ -192,6 +192,7 @@ const Footer = () => {
               <FooterLink><a href="#home">Home</a></FooterLink>
               <FooterLink><a href="#about">About</a></FooterLink>
               <FooterLink><a href="#features">Features</a></FooterLink>
+              <FooterLink><a href="#research">Research</a></FooterLink>
               <FooterLink><a href="#package-list">Pricing</a></FooterLink>
               <FooterLink><a href="#feedback">Feedback</a></FooterLink>
             </FooterLinks>

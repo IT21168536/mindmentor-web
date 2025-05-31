@@ -234,6 +234,15 @@ const Header = () => {
             to="/" 
             onClick={(e) => {
               e.preventDefault();
+              handleNavigation('/', 'research');
+            }}
+          >
+            Research
+          </NavLink>
+          <NavLink 
+            to="/" 
+            onClick={(e) => {
+              e.preventDefault();
               handleNavigation('/', 'package-list');
             }}
           >

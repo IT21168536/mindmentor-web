@@ -7,6 +7,8 @@ import DownloadApp from '../components/DownloadApp';
 import Stats from '../components/Stats';
 import Carousel from '../components/Carousel';
 import Feedback from '../components/Feedback';
+import ResearchSection from '../components/ResearchSection';
+import SystemDiagram from '../components/SystemDiagram';
 import styled from 'styled-components';
 
 const SectionContainer = styled.section`
@@ -65,6 +67,8 @@ const Home = () => {
       <Hero />
       <AboutApp />
       <Features />
+      <ResearchSection />
+      <SystemDiagram />
       <Stats />
       
       <SectionContainer id="ui-showcase">
