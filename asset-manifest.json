@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/mindmentor-web/static/css/main.4556195d.css",
-    "main.js": "/mindmentor-web/static/js/main.814776a9.js",
+    "main.js": "/mindmentor-web/static/js/main.f4858c6a.js",
     "static/js/453.b98d7585.chunk.js": "/mindmentor-web/static/js/453.b98d7585.chunk.js",
+    "static/media/system-diagram.png": "/mindmentor-web/static/media/system-diagram.0e3243d5d16fef750f83.png",
     "static/media/study-plan.jpg": "/mindmentor-web/static/media/study-plan.64d54a2e8200005f19fe.jpg",
     "static/media/academic-form.jpg": "/mindmentor-web/static/media/academic-form.bc11b8dae8e23915f89a.jpg",
     "static/media/logo.png": "/mindmentor-web/static/media/logo.1fcd07d9befcc18edb69.png",
@@ -14,11 +15,11 @@
     "static/media/student-interface.jpg": "/mindmentor-web/static/media/student-interface.952164dc571ba5e27017.jpg",
     "index.html": "/mindmentor-web/index.html",
     "main.4556195d.css.map": "/mindmentor-web/static/css/main.4556195d.css.map",
-    "main.814776a9.js.map": "/mindmentor-web/static/js/main.814776a9.js.map",
+    "main.f4858c6a.js.map": "/mindmentor-web/static/js/main.f4858c6a.js.map",
     "453.b98d7585.chunk.js.map": "/mindmentor-web/static/js/453.b98d7585.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4556195d.css",
-    "static/js/main.814776a9.js"
+    "static/js/main.f4858c6a.js"
   ]
 }
