@@ -1,4 +1,4 @@
-# MindMentor Portfolio
+# MindMentor web
 
 This is the portfolio website for MindMentor, an AI-powered solution designed to support students' academic performance and mental wellness.
 
@@ -27,7 +27,7 @@ This is the portfolio website for MindMentor, an AI-powered solution designed to
 
 1. Clone the repository:
    ```
-   git clone https://github.com/IT21168536/mindmentor-portfolio.git
+   git clone https://github.com/IT21168536/mindmentor-web.git
    cd mindmentor-portfolio
    ```
 
